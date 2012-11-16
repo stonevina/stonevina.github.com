@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+
+html {
+	background: url("../images/bg.gif") left top repeat;
+}
+
+.blog-grid-94 {
+	margin: 0 auto;
+	border: 1px solid #E6E6FA;
+	overflow: auto;
+}
+
+.blog-list {
+	width: 900px;
+	margin-right: 20px;
+	border: 1px solid #9BCD9B;
+}
+
+.left {
+	float: left;
+}
+
+.blog-slider {
+	width: 200px;
+	float: right;
+	border: 1px solid #ADFF2F;
+}
+
+.blog-photo {
+	width: 160px;
+	height: 160px;
+	margin: 0 auto;
+}
+
+.widget-title {
+	background: url("../images/contentsBg.png") repeat-y #F9F9F9;
+	margin: 10px 0 5px;
+	padding: 5px 0 5px 30px;
+	border-bottom: 1px solid #EEE;
+}
