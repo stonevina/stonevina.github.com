@@ -3,3 +3,6 @@ auto: true
 
 markdown: rdiscount
 pygments: true
+
+copyright:
+    - Design by <a href="http://beiyuu.com/about" title="BeiYuu" target="_blank">BeiYuu</a> &copy; Copyright 2012

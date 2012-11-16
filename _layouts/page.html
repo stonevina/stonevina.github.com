@@ -1,0 +1,13 @@
+---
+layout:           default
+---
+<div id="content">
+    {{ content }}
+</div><!-- #content --> 
+<div id="footer">
+    <div class="copyright right">
+        {% for line in site.copyright %}
+        <p>{{ line }}</p>
+        {% endfor %}
+    </div>
+</div><!-- #footer -->
