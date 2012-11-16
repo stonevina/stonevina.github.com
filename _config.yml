@@ -1,17 +1,5 @@
-auto:	          true
+permalink: /:year-:month-:day-:title.html 
+auto: true
 
-markdown:         rdiscount
-pygments:         true
-paginate:         6
-permalink:        /:title
-
-title:            woshiwanting
-url:              http://woshiwanting.github.com
-feed:             /atom.xml
-author:
-    name:         woshiwanting
-description:      "网上的窝"
-author_info:      <a href="http://woshiwanting.com/about">woshiwanting</a>
-
-copyright:
-    - Design by <a href="http://beiyuu.com/about" title="BeiYuu" target="_blank">woshiwanting</a> &copy; Copyright 2012
+markdown: rdiscount
+pygments: true
